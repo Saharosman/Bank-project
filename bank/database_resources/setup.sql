@@ -2,7 +2,7 @@
 drop table if exists client
 drop table if exists employee
 drop table if exists account
-droop table if exists bank
+drop table if exists bank
 
 
 create table if not exists client(
